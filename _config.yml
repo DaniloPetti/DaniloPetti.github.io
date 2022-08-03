@@ -51,7 +51,7 @@ round-avatar: true
 social-network-links:
   email: "dpetti@unisa.it"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/danilo.petti.7
+  facebook: danilo.petti.7
   github: daattali
   twitter: daattali
   patreon: DeanAttali
