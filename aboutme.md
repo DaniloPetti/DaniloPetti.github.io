@@ -1,13 +1,12 @@
 ---
 layout: page
-title: About me
+title: Statistics' Stuff
 subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Statistics is my passion.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+
 
 What else do you need?
 
