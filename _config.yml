@@ -21,8 +21,8 @@ author: Danilo Petti Ph.D Student in Statistics
 
 navbar-links:
   About Me: "aboutme"
-  Consulting:
-  Papers:
+  Consulting: "consulting.md"
+  Papers: 
   Projects:
  
    # - Copula Survival with General Censoring scheme: "https://www.sciencedirect.com/science/article/abs/pii/S016794732200130X"
