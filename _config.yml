@@ -27,7 +27,7 @@ navbar-links:
  
    # - Copula Survival with General Censoring scheme: "https://www.sciencedirect.com/science/article/abs/pii/S016794732200130X"
    # - Variable ranking for Copula Survival Models: ""
-  Author's home: "https://danilopetti.com"
+  #Author's home: "https://danilopetti.com"
 
 ################
 # --- Logo --- #
