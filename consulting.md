@@ -27,8 +27,8 @@ Get in touch if you need some help with your Statistics project or even if you h
 
 
 
-![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
-{: .mx-auto.d-block :}
+
 
 ![Bayesian](https://github.com/DaniloPetti/danilopetti.github.io/blob/master/assets/img/bayesian.png)
+{: .mx-auto.d-block :}
 
