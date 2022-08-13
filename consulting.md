@@ -31,4 +31,5 @@ Get in touch if you need some help with your Statistics project or even if you h
 <img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg">{: .mx-auto.d-block :}
 
 ![Bayesian](https://drive.google.com/file/d/1vBSqCNa4zss0ysz9vXXJeN8-IUUkXKeO/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1vBSqCNa4zss0ysz9vXXJeN8-IUUkXKeO/view?usp=sharing">
 
