@@ -13,12 +13,12 @@ Get in touch if you need some help with your Statistics project or even if you h
 * SAS programming
 * R programming
 
-### Statisitisc and ML
+### Not exclusive subjects
 * Inferential Statistics, Frequentist and Bayesian
 * Linear Models and Generalization
-* Machine Learning
-
-### Others
+* Machine Learning and Statistical Learning
+* Analysis
+* Linear Algebra
 * Financial Mathematics
 * Sthocastic Finance
 
