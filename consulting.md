@@ -24,8 +24,7 @@ Get in touch if you need some help with your Statistics project or even if you h
 
 
 
-![Orange cat][Orange]
+![](https://icon-icons.com/it/icona/trend-grafico-statistiche-grafica-analytics/99206)
 
 
 
-[Orange]: [http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png](https://icon-icons.com/it/icona/trend-grafico-statistiche-grafica-analytics/99206)
