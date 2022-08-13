@@ -18,9 +18,10 @@ Get in touch if you need some help with your Statistics project or even if you h
 
 ### Stats and Math
 * Inferential Statistics, Frequentist and Bayesian
-* Linear Models and Generalization
+* Probability
+* Linear Models and Generalization (e.g. OLS, GLM, GAM, Ridge, Lasso)
 * Machine Learning and Statistical Learning
-* Analysis
+* Calculus
 * Linear Algebra
 * Financial Mathematics
 * Sthocastic Finance
