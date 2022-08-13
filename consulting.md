@@ -22,10 +22,10 @@ Get in touch if you need some help with your Statistics project or even if you h
 * Financial Mathematics
 * Sthocastic Finance
 
-![Black cat][Black]
+
 
 ![Orange cat][Orange]
 
-[Black]: https://en.wikipedia.org/wiki/Normal_distribution#/media/File:Normal_Distribution_PDF.svg
 
-[Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+
+[Orange]: [http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png](https://icon-icons.com/it/icona/trend-grafico-statistiche-grafica-analytics/99206)
