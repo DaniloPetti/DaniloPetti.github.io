@@ -29,6 +29,6 @@ Get in touch if you need some help with your Statistics project or even if you h
 
 
 
-![Bayesian](https://github.com/DaniloPetti/danilopetti.github.io/blob/master/assets/img/bayesian.png)
+![Bayesian](assets/img/bayesian.png)
 {: .mx-auto.d-block :}
 
