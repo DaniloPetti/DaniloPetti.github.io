@@ -7,7 +7,7 @@ subtitle:
 Get in touch if you need some help with your Statistics project or even if you have one in mind. I'd love to discuss how I can help you.
 
 
-## Some of the topics with which I can help you
+## How I can help you!!!
 
 ### Programming 
 * SAS 
@@ -16,7 +16,7 @@ Get in touch if you need some help with your Statistics project or even if you h
 * Latex
 
 
-### Subjects
+### Stats and Math
 * Inferential Statistics, Frequentist and Bayesian
 * Linear Models and Generalization
 * Machine Learning and Statistical Learning
