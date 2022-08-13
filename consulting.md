@@ -24,7 +24,7 @@ Get in touch if you need some help with your Statistics project or even if you h
 * Calculus
 * Linear Algebra
 * Financial Mathematics
-* Sthocastic Finance
+* Stochastic Finance
 
 
 
