@@ -7,7 +7,7 @@ subtitle:
 Get in touch if you need some help with your Statistics project or even if you have one in mind. I'd love to discuss how I can help you.
 
 
-## How I can help you!!!
+## My expertise!
 
 ### Programming 
 * SAS 
