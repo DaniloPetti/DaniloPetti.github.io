@@ -24,7 +24,7 @@ Get in touch if you need some help with your Statistics project or even if you h
 
 
 
-![](){: .mx-auto.d-block :}
+![Copula ](https://commons.wikimedia.org/wiki/File:Copule_ord.svg#/media/File:Copule_ord.svg){: .mx-auto.d-block :}
 
 
 
