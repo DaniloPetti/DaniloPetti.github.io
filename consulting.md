@@ -24,7 +24,7 @@ Get in touch if you need some help with your Statistics project or even if you h
 
 
 
-![](https://icon-icons.com/it/icona/trend-grafico-statistiche-grafica-analytics/99206)
+![](){: .mx-auto.d-block :}
 
 
 
