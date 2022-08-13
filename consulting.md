@@ -10,10 +10,13 @@ Get in touch if you need some help with your Statistics project or even if you h
 ## Some of the topics with which I can help you
 
 ### Programming 
-* SAS programming
-* R programming
+* SAS 
+* R 
+* Python
+* Latex
 
-### Not exclusive subjects
+
+### Subjects
 * Inferential Statistics, Frequentist and Bayesian
 * Linear Models and Generalization
 * Machine Learning and Statistical Learning
