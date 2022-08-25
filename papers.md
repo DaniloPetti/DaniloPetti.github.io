@@ -6,7 +6,7 @@ subtitle:
 
 
 # Accademic 
-##Published
-##Working papers
+## Published
+## Working papers
 
-#Non Accademic
+# Non Accademic
