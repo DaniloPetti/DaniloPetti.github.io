@@ -18,6 +18,8 @@ D Petti, A Eletti, G Marra, R Radice,Computational Statistics & Data Analysis, 1
 
 ## Others
 - Brewing Lower Acidity Coffee with a Single-Serve Capsule Coffee Maker,D.Petti, L.Ferrari [link](assets/PapersPettiFerrari.pdf)
-- Some solved exercise in [Statistical Inference](assets/SIsolvedExercises.pdf) and [Bayesian Statistics](assets/BISolved.pdf)
+
+- Solved exercise in [Statistical Inference](assets/SIsolvedExercises.pdf) 
+- Solved exercise in[Bayesian Statistics](assets/BISolved.pdf)
 
 
