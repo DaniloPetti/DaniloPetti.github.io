@@ -12,14 +12,14 @@ subtitle:
 D Petti, A Eletti, G Marra, R Radice,Computational Statistics & Data Analysis, 175, 107550. [link](https://www.sciencedirect.com/science/article/abs/pii/S016794732200130X)
 
 ## Working papers
-- Variable Ranking based on Bivariate Copula Link-Based Additive Models (provisional title) – D.Petti, G.Marra, M.Niglio , 2022
-- Copula Link Based Additive models generalized to the case of two Tweedie Magins (provisional title) – D.Petti, G.Marra, working paper 2022
+- Variable Ranking based on Bivariate Copula Link-Based Additive Models (provisional title), D.Petti, G.Marra, M.Niglio, 2022
+- Copula Link Based Additive models generalized to the case of two Tweedie Magins (provisional title), D.Petti, G.Marra, 2022
 
 
 ## Others
-- Brewing Lower Acidity Coffee with a Single-Serve Capsule Coffee Maker,D.Petti, L.Ferrari [link](assets/PapersPettiFerrari.pdf)
+- Brewing Lower Acidity Coffee with a Single-Serve Capsule Coffee Maker, D.Petti, L.Ferrari [link](assets/PapersPettiFerrari.pdf)
 
 - Solved exercise in [Statistical Inference](assets/SIsolvedExercises.pdf) 
-- Solved exercise in[Bayesian Statistics](assets/BISolved.pdf)
+- Solved exercise in [Bayesian Statistics](assets/BISolved.pdf)
 
 
