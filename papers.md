@@ -15,4 +15,4 @@ D Petti, A Eletti, G Marra, R Radice,Computational Statistics & Data Analysis, 1
 - Varaible Ranking based on Bivariate Copula Link-Based Additive Models (provisional title) – D.Petti, G.Marra, M.Niglio , 2022
 - Copula Link Based Additive models generalized to the case of two Tweedie Magins (provisional title) – D.Petti, G.Marra, working paper 2022
 # Non Accademic
--Brewing Lower Acidity Coffee with a Single-Serve Capsule Coffee Maker,D.Petti, L.Ferrari [link](https://www.sciencedirect.com/science/article/abs/pii/S016794732200130X)
+-Brewing Lower Acidity Coffee with a Single-Serve Capsule Coffee Maker,D.Petti, L.Ferrari [link](assets/PapersPettiFerrari.pdf)
