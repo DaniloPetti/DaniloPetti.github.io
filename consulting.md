@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Consulting
-subtitle: 
+title: Get in touch 
+subtitle: if you are struggling with Stats
 ---
 
 Get in touch if you need some help with your Statistics project or even if you have one in mind. I'd love to discuss how I can help you.
 
 
-## My expertise!
+
 
 ### Programming 
 * SAS 
