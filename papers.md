@@ -16,12 +16,12 @@ D Petti, A Eletti, G Marra, R Radice,Computational Statistics & Data Analysis, 1
 - Copula Link Based Additive models generalized to the case of two Tweedie Magins (provisional title), D.Petti, G.Marra, 2022
 
 #### Conferences & Talks
-- 9th [International Conference on Risk Analysis](http://icra9.unipg.it),here the [slides](assets/pdf/ICRA9.pdf)
+- 9th [International Conference on Risk Analysis](http://icra9.unipg.it), here the [slides](assets/pdf/ICRA9.pdf)
 
 ###### Others
 - Brewing Lower Acidity Coffee with a Single-Serve Capsule Coffee Maker, D.Petti, L.Ferrari [link](assets/PapersPettiFerrari.pdf)
 
-- Solved exercise in [Statistical Inference](assets/SIsolvedExercises.pdf) 
-- Solved exercise in [Bayesian Statistics](assets/BISolved.pdf)
+- Solved exercise in [Statistical Inference](assets/SIsolvedExercises.pdf) (Typed in Latex)
+- Solved exercise in [Bayesian Statistics](assets/BISolved.pdf) (Typed in Latex)
 
 
