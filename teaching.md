@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ## 2022/2023
-- Teacher for 29th Course in Statistical Methods for Applied Biological Science, [Biometrics Italian Society](https://ibs-italy.org) (SIB), 5-8 Sep 2022.
+- Teacher for 29th Course in Statistical Methods for Applied Biological Science held by [International Biometric Society Italian region](https://ibs-italy.org) (SIB), 5-8 Sep 2022.
 
 ## 2021/2022
 - Programming in SAS, 30 hours
