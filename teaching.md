@@ -5,7 +5,7 @@ subtitle:
 ---
 
 ## 2022/2023
-- Teacher for $29^{o}$ Course in Statistical Methods for Applied Biological Science, Società Italiana di Biometria, 5-8 Sep 2022.
+- Teacher for 29o Course in Statistical Methods for Applied Biological Science, Società Italiana di Biometria, 5-8 Sep 2022.
 
 ## 2021/2022
 - Programming in SAS, 30 hours
