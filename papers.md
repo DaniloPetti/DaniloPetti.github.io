@@ -25,3 +25,6 @@ D Petti, A Eletti, G Marra, R Radice,Computational Statistics & Data Analysis, 1
 - Solved exercise in [Bayesian Statistics](assets/BISolved.pdf) (Typed in Latex)
 
 
+
+
+
