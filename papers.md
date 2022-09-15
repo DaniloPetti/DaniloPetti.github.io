@@ -18,6 +18,9 @@ D Petti, A Eletti, G Marra, R Radice,Computational Statistics & Data Analysis, 1
 #### Conferences & Talks
 - 9th [International Conference on Risk Analysis](http://icra9.unipg.it), here the [slides](assets/pdf/ICRA9.pdf)
 
+
+
+
 ###### Others
 - Brewing Lower Acidity Coffee with a Single-Serve Capsule Coffee Maker, D.Petti, L.Ferrari [link](assets/PapersPettiFerrari.pdf)
 
