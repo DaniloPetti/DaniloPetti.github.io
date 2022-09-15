@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Papers and Others
+title: Papers and more
 subtitle: 
 ---
 
